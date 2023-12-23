@@ -18,9 +18,7 @@ int main()
 	
 	func(temp);
 
-	//int f = sum(10, 20);
-	//cout << f << endl;
-
+	
 }
 int sum(int a, int b)
 {
